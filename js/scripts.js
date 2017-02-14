@@ -6,6 +6,6 @@ $(function() {
     $(".awesome").slideToggle();
   });
   $("#boo").click(function(){
-    $("#peek").toggleClass("rest");
+    $("#peek").toggleClass();
   })
 });

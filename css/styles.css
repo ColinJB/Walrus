@@ -1,3 +1,14 @@
+.rest {
+  display: none;
+  color: #FF0000;
+}
+
+.container{
+  margin: auto;
+  width:600px;
+  border: 1px solid blue;
+}
+
 .walrus-showing {
   display: none;
   text-align: center;
@@ -25,17 +36,8 @@ display: none;
   display: none;
 }
 
-.rest {
-  overflow: hidden;
-}
-
-p#peek{
-  text-overflow: ellipsis;
-  display: block;
-  white-space: nowrap;
-  width:90px;
-
-
+#peek {
+  text-align: center;
 }
 
 
