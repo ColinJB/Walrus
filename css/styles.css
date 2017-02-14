@@ -40,6 +40,10 @@ display: none;
   text-align: center;
 }
 
+.highlight {
+  background-color: yellow;
+}
+
 
 #boo {
   text-align: center;
@@ -49,4 +53,16 @@ display: none;
 
 #boo:hover{
   text-decoration: underline;
+}
+
+.light-background{
+  background-color: #ccc9c9;
+}
+
+.dark-background{
+  background-color: #302f2f;
+}
+
+button{
+  margin: 0 auto;
 }
