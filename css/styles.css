@@ -1,0 +1,50 @@
+.walrus-showing {
+  display: none;
+  text-align: center;
+}
+
+.walrus-hidden {
+  text-align: center;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.generals {
+float: right;
+display: none;
+}
+
+.awesome {
+  float: left;
+  display: none;
+}
+
+.rest {
+  overflow: hidden;
+}
+
+p#peek{
+  text-overflow: ellipsis;
+  display: block;
+  white-space: nowrap;
+  width:90px;
+
+
+}
+
+
+#boo {
+  text-align: center;
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#boo:hover{
+  text-decoration: underline;
+}
